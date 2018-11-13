@@ -1,0 +1,6 @@
+[psql]
+dbname="meocon"
+user="admin"
+pass="123"
+host="localhost"
+sslmode="disable"
